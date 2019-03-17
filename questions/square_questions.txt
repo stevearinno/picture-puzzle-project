@@ -1,0 +1,46 @@
+question;answer
+Who is the teacher of programming 1?;Ari Suntioinen
+What is the capital city of Indonesia?;Jakarta
+What is the first letter in the alphabet?;A
+Who is the last name of the President of USA?;Trump
+What is the largest country in the World by Area?;Russia
+What is the smallest country in the World by Area?;Vatican
+In which city is Tampere University of Technology?;Tampere
+What programming language do we use in programming 1?;Python
+What is the programming language whose name is the same as 1 island in Indonesia?;Java
+What is the biggest town in Finland?;Helsinki
+What plant can live in desert?;Cactus
+In which town is tower of Pujo?;Kuopio
+What is our planet?;Earth
+What is the red planet?;Mars
+What was the famous Finnish cellphone?;Nokia
+What is the first month in a year?;January
+What is the last month in a year?;December
+Who is the family name of president of Finland?;Niinistö
+What is the haircolor of the asian people?;black
+Where do kangaroos live?;Australia
+Where do polar bear live?;North Pole
+What is the capital of Iceland?;Reykjavik
+Where is Kim Jong Il from?;North Korea
+What is the capital of Saudi Arabia?;Riyadh
+In which continent is Namibia?;Africa
+What is the name of Finnish airline?;Finnair
+Who is the last name of Russian president?;Putin
+Where does the Pope live?;Vatican
+What is the name of Pope?;Francis
+What is Estonian ferry company?;Tallink
+What is the capital of Estonia?;Tallin
+What is the capital of Norway?;Oslo
+Where do eskimos live?;Greenland
+Where (in which country) did Ayatullah Khomeini live?;Iran
+What is the capital of Russia?;Moscow
+What is the nearest planet from the Sun?;Mercury
+The other name of Hervanta.;Herwood
+What is Finland's largest lake?;Saimaa
+When translated into English, what is the title of the Finnish national anthem?;Our Land
+Finnish longest word.;lentokonesuihkuturbiinimoottoriapumekaanikkoaliupseerioppilas
+Student apartment company in Tampere.;TOAS
+The ass of Finland.;Turku
+Who is the full name of the host of the show "Hauskat kotivideot"?;Sampo Marjomaa
+Who is (full name) the head assistant of Introduction to Programming at TUT?;Niklas Tapper
+Who is the first name of the assistant of "Introduction to Programming" whose first name starts with letter "T"?;Teemu

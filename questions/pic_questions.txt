@@ -1,0 +1,15 @@
+theme;filename;answer;hint
+Celebrity;matti.gif;Matti Nykänen;He was the best skijumpper in Finland
+Fictional Character;homer.gif;Homer;He is the father of Bart, Lisa, and Maggie
+Animal;orangutan.gif;orangutan;This is chimpanzee's cousin
+Fictional Character;tonttu.gif;tonttu;This character lives in lapland and sauna
+Celebrity;lennu.gif;lennu;Your president's dog
+Celebrity;aleksi.gif;Aleksi;One youtuber from TUT
+Place;tampere.gif;Tampere;The city where this game was made
+Place;pori.gif;Pori;The city where Yyteri beach is
+Sportman;Pertti_Karppinen_1980.gif;Pertti Karppinen;a retired Finnish rower with 3 olympic gold medals
+Scientist;marie_curie.gif;Marie Curie;A woman who pioneered research in radioactivity
+Place;maspalomas.gif;Maspalomas;A famous beach in Gran Canaria
+Place;kooditorio.gif;Kooditorio;The room where we meet I learn how to program
+Place;borobudur.gif;Borobudur;The biggest buddist temple in Indonesia
+Scientist;alan_turing.gif;Alan Turing;Enigma code breaker
